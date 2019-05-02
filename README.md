@@ -1,2 +1,0 @@
-# gokudos
-Created with CodeSandbox
